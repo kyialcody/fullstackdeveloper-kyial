@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Корпоративный сайт Alfa Group">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2438"/>
+      <stop offset="1" stop-color="#050e18"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8c26a"/>
+      <stop offset="1" stop-color="#b88a3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="60" y="40" width="680" height="520" rx="18" fill="#f7f8fa"/>
+  <rect x="60" y="40" width="680" height="60" rx="18" fill="#0d2438"/>
+  <rect x="86" y="62" width="110" height="16" rx="8" fill="url(#gold)"/>
+  <rect x="420" y="62" width="50" height="10" rx="5" fill="rgba(255,255,255,0.55)"/>
+  <rect x="484" y="62" width="60" height="10" rx="5" fill="rgba(255,255,255,0.55)"/>
+  <rect x="558" y="62" width="50" height="10" rx="5" fill="rgba(255,255,255,0.55)"/>
+  <rect x="622" y="62" width="40" height="10" rx="5" fill="rgba(255,255,255,0.55)"/>
+  <rect x="676" y="56" width="44" height="26" rx="13" fill="url(#gold)"/>
+  <rect x="86" y="130" width="260" height="20" rx="10" fill="#0d2438"/>
+  <rect x="86" y="164" width="220" height="13" rx="6" fill="#cdd6de"/>
+  <rect x="86" y="192" width="180" height="13" rx="6" fill="#cdd6de"/>
+  <rect x="86" y="230" width="150" height="38" rx="19" fill="url(#gold)"/>
+  <rect x="254" y="230" width="120" height="38" rx="19" fill="#ffffff" stroke="#0d2438" stroke-width="2"/>
+  <rect x="86" y="320" width="150" height="14" rx="7" fill="#0d2438"/>
+  <rect x="86" y="348" width="190" height="120" rx="12" fill="#ffffff"/>
+  <rect x="102" y="364" width="60" height="56" rx="8" fill="#e6ebf0"/>
+  <rect x="102" y="436" width="158" height="10" rx="5" fill="#cdd6de"/>
+  <rect x="102" y="456" width="120" height="10" rx="5" fill="#dde3e9"/>
+  <rect x="292" y="348" width="190" height="120" rx="12" fill="#ffffff"/>
+  <rect x="308" y="364" width="60" height="56" rx="8" fill="#e6ebf0"/>
+  <rect x="308" y="436" width="158" height="10" rx="5" fill="#cdd6de"/>
+  <rect x="308" y="456" width="120" height="10" rx="5" fill="#dde3e9"/>
+  <rect x="498" y="348" width="190" height="120" rx="12" fill="#ffffff"/>
+  <rect x="514" y="364" width="60" height="56" rx="8" fill="#e6ebf0"/>
+  <rect x="514" y="436" width="158" height="10" rx="5" fill="#cdd6de"/>
+  <rect x="514" y="456" width="120" height="10" rx="5" fill="#dde3e9"/>
+  <rect x="86" y="508" width="628" height="40" rx="12" fill="#0d2438"/>
+  <rect x="110" y="522" width="200" height="10" rx="5" fill="rgba(255,255,255,0.35)"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Интернет-магазин NORD Fitness">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123a5e"/>
+      <stop offset="1" stop-color="#081a2e"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22a7f0"/>
+      <stop offset="1" stop-color="#1570b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="60" y="40" width="680" height="520" rx="18" fill="#f4f7fb"/>
+  <rect x="60" y="40" width="680" height="46" rx="18" fill="#e4eaf2"/>
+  <circle cx="92" cy="63" r="6" fill="#e8846c"/>
+  <circle cx="116" cy="63" r="6" fill="#f2c066"/>
+  <circle cx="140" cy="63" r="6" fill="#7fbf7f"/>
+  <rect x="330" y="54" width="140" height="18" rx="9" fill="#ffffff"/>
+  <rect x="70" y="112" width="660" height="30" rx="15" fill="#ffffff"/>
+  <circle cx="110" cy="127" r="9" fill="#dce6f0"/>
+  <rect x="140" y="120" width="400" height="12" rx="6" fill="#e4eaf2"/>
+  <rect x="580" y="114" width="120" height="26" rx="13" fill="url(#card)"/>
+  <text x="70" y="204" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#123a5e">Категории</text>
+  <rect x="70" y="224" width="150" height="300" rx="12" fill="#ffffff"/>
+  <rect x="86" y="244" width="118" height="16" rx="8" fill="#cfe0f0"/>
+  <rect x="86" y="276" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="86" y="306" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="86" y="336" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="86" y="366" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="86" y="396" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="86" y="426" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="86" y="456" width="118" height="14" rx="7" fill="#e4eaf2"/>
+  <rect x="240" y="224" width="160" height="210" rx="12" fill="#ffffff"/>
+  <rect x="258" y="244" width="124" height="110" rx="8" fill="#cfdff0"/>
+  <rect x="258" y="372" width="124" height="12" rx="6" fill="#123a5e"/>
+  <rect x="258" y="394" width="90" height="12" rx="6" fill="#c9d8e6"/>
+  <rect x="420" y="224" width="160" height="210" rx="12" fill="#ffffff"/>
+  <rect x="438" y="244" width="124" height="110" rx="8" fill="#cfdff0"/>
+  <rect x="438" y="372" width="124" height="12" rx="6" fill="#123a5e"/>
+  <rect x="438" y="394" width="90" height="12" rx="6" fill="#c9d8e6"/>
+  <rect x="600" y="224" width="160" height="210" rx="12" fill="#ffffff"/>
+  <rect x="618" y="244" width="124" height="110" rx="8" fill="#cfdff0"/>
+  <rect x="618" y="372" width="124" height="12" rx="6" fill="#123a5e"/>
+  <rect x="618" y="394" width="90" height="12" rx="6" fill="#c9d8e6"/>
+  <rect x="70" y="480" width="660" height="56" rx="14" fill="#123a5e"/>
+  <rect x="90" y="500" width="120" height="16" rx="8" fill="#3a6a94"/>
+  <circle cx="250" cy="508" r="14" fill="#22a7f0"/>
+  <circle cx="290" cy="508" r="14" fill="#22a7f0"/>
+  <circle cx="330" cy="508" r="14" fill="#22a7f0"/>
+</svg>
